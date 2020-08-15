@@ -1,0 +1,6 @@
+monedas10=int(input ("Monedas de 10:"))
+monedas5=int(input ("Monedas de 5:"))
+monedas2=int(input ("Monedas de 2:"))
+monedas1=int(input ("Monedas de 1:"))
+suma=(monedas10*10)+(monedas5*5)+(monedas2*2)+(monedas1)
+print ("HOLA el resultado es " + str(suma) )
